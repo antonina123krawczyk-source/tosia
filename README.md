@@ -4,6 +4,14 @@ A mobile-first loyalty app for students. The demo includes student, venue, and a
 
 ## Run locally
 
+### One click on Windows
+
+Open the project folder and double-click **`OPEN-STEMPEL.bat`**. The launcher checks for Node.js, starts the server, and opens the app in your default browser automatically. Keep the launcher window open while using the app.
+
+If the launcher says that Node.js is missing, install the LTS version from [nodejs.org](https://nodejs.org), then double-click the file again.
+
+### Terminal
+
 ```bash
 npm start
 ```
